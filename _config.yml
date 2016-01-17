@@ -1,0 +1,40 @@
+favicon: null
+name: Kpulk
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
+color:
+  saturation: 0.7007169
+  brandStrength: 0.6433692
+  lightness: 0.1684588
+  brandColors:
+    - '#FFFFFF'
+    - '#5C534C'
+    - '#302828'
+    - '#CFBCA4'
+    - '#999A92'
+  rhythmicContrast: 0.8172043
+typography_spectrum: 0.8566308
+layout_spectrum: 0.03405018
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
